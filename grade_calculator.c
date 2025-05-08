@@ -47,7 +47,7 @@ of a student given his marks based on below
     {
       printf("GRADE E\n");
     }
-    /*if above condition's don't satisfies
+    /*if above condition's does'nt satisfies
      then this condition apllies */
     else 
     {
