@@ -24,6 +24,5 @@ Additionally, the program ensures that the user inputs valid marks within the ra
 - Displays the corresponding grade based on the marks.
 - Handles invalid input gracefully.
 
-## Sample Output
 
 
